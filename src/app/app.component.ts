@@ -9,7 +9,7 @@ import { animals, animalsText, cities, citiesText, colors, colorsText, countries
 export class AppComponent {
   title = 'AngularListTask';
 
-    productsText : string = productsText
+  productsText : string = productsText
   products : string[]= products
 
   fruitsText: string = fruitsText
@@ -38,8 +38,6 @@ export class AppComponent {
 
   languagesText : string = languagesText
   languages : string[] = languages
-
-
 
 
 }
